@@ -1,0 +1,6 @@
+It is a totally disastrous exam. I will not get more than 39 : ( What a bulls**t question is it!
+
+Vowel: 27
+Consonant: 42
+Digit: 2
+Special: 6
